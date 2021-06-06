@@ -1,6 +1,6 @@
-{"support","git clone https://github.com/joq62/support.git"}.
-{"controller","git clone https://github.com/joq62/controller.git"}.
-{"etcd","git clone https://github.com/joq62/etcd.git"}.
+{"support","https://github.com/joq62/support.git"}.
+{"controller","https://github.com/joq62/controller.git"}.
+{"etcd","https://github.com/joq62/etcd.git"}.
 
 
 
